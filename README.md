@@ -13,4 +13,4 @@ Cerberus-E is distributed under the terms of the [MIT License][1].
 
   [1]: https://github.com/PowerHitter0418/Cerberus-E/blob/master/LICENSE
 
-[![Dependency Status](https://david-dm.org/PowerHitter0418/Cerberus-E.svg)](https://david-dm.org/PowerHitter0418/Cerbeus-E)
+[![Dependency Status](https://david-dm.org/PowerHitter0418/Cerberus-E.svg)](https://david-dm.org/PowerHitter0418/Cerberus-E)
