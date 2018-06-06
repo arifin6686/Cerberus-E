@@ -21,7 +21,7 @@ const defaultCharacter = exports.defaultCharacter = ["."];
 exports.defaultRank = "@";
 
 // message sent to users pming the bot
-exports.pmMessage = `Sorry, I am a bot made by A Flying Phantom! Use ${defaultCharacter[0]}guide to view a list of **some** of my commands or PM my owner for more information! Have a nice day!`;
+exports.pmMessage = `Sorry, I am just a bot! Use ${defaultCharacter[0]}guide to view a list of **some** of my commands or PM my owner for more information! Have a nice day!`;
  
 // custom default ranks for different command keys
 exports.customRank = {
