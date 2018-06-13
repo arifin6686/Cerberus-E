@@ -139,7 +139,11 @@ exports.commands = {
         Monitor.release(this.targetUser.userid || this.targetUser);
         this.send((this.targetUser.name || this.targetUser) + " was unbanned by " + user.name + ".");
     },
-    
+    kill: function (target, room, user) {
+        if (!user.isDev()) return false;
+	console.log('Killed by ' + user.name.blue);
+	process.exit(-1);
+    },
     updatedata: function(target, room, user) {
         if (!this.can("dev")) return false;
         if (Monitor.dataUpdateLock) return this.send("Please wait until a previous data update is complete.");
