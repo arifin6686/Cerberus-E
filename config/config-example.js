@@ -10,7 +10,7 @@ exports.info = {
 // information regarding the bot's login information
 // it can be left blank
 exports.bot = {
-    name: "Bot's username",
+    name: "Cerberus-E",
     pass: "",
 };
 
