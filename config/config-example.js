@@ -1,4 +1,4 @@
-'use strict';
+'use strict
 // info of the server you're trying to connect to
 // this has to be filled in
 exports.info = {
@@ -10,7 +10,7 @@ exports.info = {
 // information regarding the bot's login information
 // it can be left blank
 exports.bot = {
-    name: "Cerberus-E",
+    name: "Bot's Username",
     pass: "",
 };
 
