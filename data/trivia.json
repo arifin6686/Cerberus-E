@@ -329,7 +329,7 @@
 	},
 	{
 	    "question": "Which Pokemon evolution line has no weaknesses due to their abilities?",
-	    "answers": ["Eelectross"]
+	    "answers": ["Eelektross"]
 	},
 	{
 	    "question": "What color are Raichu's cheeks?",
@@ -617,7 +617,7 @@
 	},
 	{
 	    "question": "Name a Pokemon that has a BST of 590",
-	    "answers": ["Alakazam-mega", "Altaria-mega", "Kangaskhan-mega", "Slowbro-mega", "Mega Alakazam", "Mega Altaria", "Mega Kangaskhan", "Mega Slowbro"]
+	    "answers": ["Altaria-mega", "Kangaskhan-mega", "Slowbro-mega", "Mega Altaria", "Mega Kangaskhan", "Mega Slowbro"]
 	},
 	{
 	    "question": "And his name is.....",
@@ -726,5 +726,28 @@
 	{
 	    "question": "What is the only poison type with 430 BST",
 	    "answers": ["Qwilfish"]
-	}
+	},
+	{
+	    "question": "My Owner?",
+	    "answers": ["A Flying Phantom"]
+	},
+	{
+	    "question": "Who contributed in making my git on GitHub?",
+	    "answers": ["A Helpful Rayquaza"]
+	},
+	{
+	    "question": "For Which Server I am being used?",
+	    "answers": ["This one"]
+	},
+	{
+	    "question": "What is name of my repository on GitHub?",
+	    "answers": ["Cerberus-E"]
+	},
+	{
+	    "question": "Who contributed in making my git on GitHub?",
+	    "answers": ["A Helpful Rayquaza"]
+	},
 ]
+
+
+
