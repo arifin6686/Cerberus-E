@@ -34,7 +34,7 @@ class TriviaGame extends Rooms.botGame {
             this.sendRoom("There are no trivia questions loaded. Game automatically ended.");
             return this.onEnd();
         }
-        this.sendRoom(`("A new game of Anagrams is starting. Use ``" + this.room.commandCharacter[0] + "g`` to guess the Answer. First to " + this.scorecap + " points wins!`);
+        this.sendRoom(`A new game of Trivia is starting! Use \`\`${this.room.commandCharacter[0]}join\`\` to join the game.  First to ${this.scorecap} points win!`);
         this.onInitRound();
     }
     
